@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+#Name: Get Bottle Production
+#Author: Victor Lopes
+#Date: 2020/03/10 (ISO 8601)
+#Description: It counts how many bottles were produced, until one of them is dropped, ending the production. Printing the number of bottles on the screen.
 
 from random import randint
 from time import sleep
