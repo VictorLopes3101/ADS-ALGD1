@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+
+#Name: Pastry POS
+#Author: Victor Lopes
+#Date: 2020/03/10 (ISO 8601)
+#Description: This code simulate a POS (Point of sale) for a Pastry. Where you insert a amount of the sale and it sum every and print it with the total sales.
+
 from random import randint
 
 class pastry_pos():
