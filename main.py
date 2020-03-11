@@ -1,3 +1,10 @@
+#coding utf-8
+
+#Name: Sum square numbers
+#Author: Victor Lopes
+#Date: 2020/03/04 (ISO 8601)
+#Description: This script sum four random square numbers.
+
 from random import randint
 
 class sum_and_square():
